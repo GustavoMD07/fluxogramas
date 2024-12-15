@@ -112,11 +112,21 @@
         <mxCell id="HbvH3CfmSWgUY9yFyGOR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HbvH3CfmSWgUY9yFyGOR-28" target="HbvH3CfmSWgUY9yFyGOR-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HbvH3CfmSWgUY9yFyGOR-44" value="SE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HbvH3CfmSWgUY9yFyGOR-33">
+          <mxGeometry x="-0.2473" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HbvH3CfmSWgUY9yFyGOR-36" value="PRODUTO&lt;div&gt;VALOR&lt;/div&gt;&lt;div&gt;ESTADO&lt;/div&gt;&lt;div&gt;FRETE&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="760" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="HbvH3CfmSWgUY9yFyGOR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HbvH3CfmSWgUY9yFyGOR-28" target="HbvH3CfmSWgUY9yFyGOR-36">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbvH3CfmSWgUY9yFyGOR-45" value="SENAO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HbvH3CfmSWgUY9yFyGOR-37">
+          <mxGeometry x="-0.1931" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HbvH3CfmSWgUY9yFyGOR-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
           <mxGeometry x="394.5" y="830" width="40" height="30" as="geometry" />
