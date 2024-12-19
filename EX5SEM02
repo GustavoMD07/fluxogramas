@@ -127,6 +127,23 @@
         <mxCell id="wm96Tfb7SO4B46kASSp4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wm96Tfb7SO4B46kASSp4-3" target="wm96Tfb7SO4B46kASSp4-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wm96Tfb7SO4B46kASSp4-16" value="DISTANCIA&amp;nbsp; = 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304.75" y="1260" width="156.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wm96Tfb7SO4B46kASSp4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wm96Tfb7SO4B46kASSp4-12" target="wm96Tfb7SO4B46kASSp4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wm96Tfb7SO4B46kASSp4-18" value="CIDADE NÃO ATENDIDA PELA EMPRESA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1410" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="wm96Tfb7SO4B46kASSp4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wm96Tfb7SO4B46kASSp4-16" target="wm96Tfb7SO4B46kASSp4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wm96Tfb7SO4B46kASSp4-21" value="SE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wm96Tfb7SO4B46kASSp4-19">
+          <mxGeometry x="-0.2255" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
