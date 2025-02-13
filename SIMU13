@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.13">
   <diagram name="Página-1" id="yjD21JtV_hGdNi5ztn5T">
-    <mxGraphModel dx="954" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="912" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,13 +107,7 @@
         <mxCell id="zirw1w9sRNogkSZU0Qn0-29" value="i = 0" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rlfbJeYWcNgL0DzIiJqH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zirw1w9sRNogkSZU0Qn0-14" target="rlfbJeYWcNgL0DzIiJqH-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="710" as="sourcePoint" />
-            <mxPoint x="405" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rlfbJeYWcNgL0DzIiJqH-1" value="imparTotal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rlfbJeYWcNgL0DzIiJqH-1" value="imparTotal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="365" y="740" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
